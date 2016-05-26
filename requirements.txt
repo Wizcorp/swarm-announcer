@@ -1,0 +1,4 @@
+argparse
+docker-py~=1.8
+python-consul
+six
